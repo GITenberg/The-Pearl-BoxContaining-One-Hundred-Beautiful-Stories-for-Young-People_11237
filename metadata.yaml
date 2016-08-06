@@ -1,0 +1,32 @@
+_repo: The-Pearl-BoxContaining-One-Hundred-Beautiful-Stories-for-Young-People_11237
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Anonymous
+    alias: Anonyme
+    gutenberg_agent_id: '216'
+    url: http://www.gutenberg.org/2009/agents/216
+    wikipedia:
+    - http://www.gutenberg.org/browse/authors/u#a49
+    - http://en.wikipedia.org/wiki/Anonymity
+description: See also PG#11595, a version slightly different in the stories presented
+  and in the illustrations.
+gutenberg_issued: '2004-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '11237'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Love stories'
+- !lcsh 'Nature -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Children''s stories'
+- !lcsh 'Children''s poetry'
+- GITenberg
+title: 'The Pearl Box
+
+  Containing One Hundred Beautiful Stories for Young People'
+url: http://www.gutenberg.org/ebooks/11237
